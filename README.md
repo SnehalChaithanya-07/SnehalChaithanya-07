@@ -3,8 +3,7 @@
 
 ### Hi there! 👋
 
-I'm Serla Snehal Chaithanya, a Pre-final year B.Tech Civil Engineering student at IIT Bhubaneswar. While my academic background is in civil engineering, my true passion lies in technology and software development. I am actively learning and building projects in Java, JavaScript, Data Structures & Algorithms (DSA), and Web Development.
-
+I'm Serla Snehal Chaithanya, a Pre-final year B.Tech Civil Engineering student at IIT Bhubaneswar. While my academic background is in civil engineering, my true passion lies in technology and software development. I possess a good understanding of Java and Data Structures and Algorithms (DSA). I am always eager to learn and apply my skills to real-world challenges. With strong time management and teamwork abilities,I am actively seeking an internship to gain practical experience and grow further as a developer
 ### Professional Background
 
 As a dedicated learner, I am constantly honing my skills in programming, problem-solving, and software development. I am actively participating in coding challenges to strengthen my grasp of DSA and competitive programming.
@@ -18,10 +17,6 @@ Here are some of the technologies and tools I work with, as well as my achieveme
 - **Web Development**: HTML, CSS, JavaScript, Node Js, Express.js, RESTful APIs
 - **Tools and Platforms**: Git, GitHub, VS Code
 
-
-### Interests
-
-When I'm not coding, I enjoy exploring new technologies, reading tech blogs, and participating in hackathons. I’m also passionate about contributing to open-source projects .
 
 
 ### Get in Touch
