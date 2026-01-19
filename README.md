@@ -15,6 +15,7 @@ Here are some of the technologies and tools I work with, as well as my achieveme
 - **Programming Languages**: Java
 - **Software Development**: Data Structures and Algorithms(DSA), OOP’s, SQL
 - **Web Development**: HTML, CSS, JavaScript, Node Js, Express.js, RESTful APIs
+- **Databases**: MySQL
 - **Tools and Platforms**: Git, GitHub, VS Code
 
 
